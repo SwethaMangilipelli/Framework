@@ -1,6 +1,7 @@
 package testScripts;
 
 import java.util.Map;
+//add new category
 
 import org.testng.annotations.Test;
 
